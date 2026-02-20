@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "live-server --open=thankyou.html",
+    "dev": "live-server --open=greating.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
